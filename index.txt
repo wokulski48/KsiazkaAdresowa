@@ -1,1 +1,2 @@
-Zawartość pliku index.txt
+﻿Zawartość pliku index.txt
+Merge conflict
